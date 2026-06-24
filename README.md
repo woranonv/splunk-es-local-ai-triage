@@ -17,7 +17,7 @@ This guide demonstrates how to address these challenges using **local open-sourc
 
 ## Architecture
 
-![Architecture](file/Architecture%20.png)
+![Architecture](file/Diagram.png)
 
 > **Local LLM** (Ollama) receives prompts from Splunk via the **AITK App**. Splunk ES ingests log telemetry from multiple sources (Endpoint, Firewall, Email, Cloud, etc.) and is enriched with **Threat Intel**, **Asset/Identity**, and **Vulnerability** data from tools like Rapid7, Tenable, BMC, Jira, and ServiceNow.
 
