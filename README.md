@@ -43,7 +43,7 @@ Consolidate all relevant incident context into Splunk ES and use a **local LLM**
 - ✅ Reasoning: evidence-backed explanation (English + Thai language supported)
 - ✅ Suggested next steps: investigation and remediation actions
 
-**Demo video:** [`file/Demo_AI_Triage.mov`](file/Demo_AI_Triage.mov)
+**Demo video:** [`file/Demo_AI_Triage.mp4`](file/Demo_AI_Triage.mp4)
 
 ---
 
