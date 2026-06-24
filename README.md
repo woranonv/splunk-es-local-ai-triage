@@ -300,18 +300,8 @@ Reference: [Set Up a GET Workflow Action](https://help.splunk.com/en/splunk-ente
 
 | File | Description |
 |---|---|
-| `ai_triage_analysis.xml` | Splunk dashboard XML — AI Triage Analysis view |
-| `warm_powershell_findings_hec.py` | Demo script — sends mock notable events via HEC |
-| `warm_risk_events_hec.py` | Demo script — sends mock risk events via HEC |
-| `rapid7_insightvm_hec.py` | Demo script — sends mock Rapid7 vulnerability data via HEC |
-| `rapid7_insightvm_vuln_export.csv` | Sample vulnerability export data |
-| `es_asset_lookup.csv` | Sample asset lookup data |
-| `es_identity_lookup.csv` | Sample identity lookup data |
-| `mitre_attack_lookup.csv` | MITRE ATT&CK reference lookup |
-| `decode_ps_command.py` | Utility to decode Base64 PowerShell commands |
-| `splunk_config_updates.md` | Splunk configuration reference (transforms.conf, lookups) |
-| `rapid7_splunk_config.md` | Rapid7 InsightVM → Splunk integration configuration guide |
-| `file/` | Screenshots and demo video |
+| `README.md` | Full deployment guide (this document) |
+| `file/` | Screenshots referenced in this guide |
 
 ---
 
@@ -327,12 +317,6 @@ Before and after comparison:
 | Language support | English only | English + Thai |
 
 ---
-
-## What's Next (Coming Episodes)
-
-- **EP2:** Local AI for Threat Hunting — automated hypothesis generation from risk events
-- **EP3:** Local AI for Automated Response recommendations
-- **EP4:** Building a local AI-powered SOC assistant
 
 ---
 
